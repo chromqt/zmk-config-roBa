@@ -43,12 +43,12 @@
 
         click_left {
             bindings = <&mkp MB1>;
-            key-positions = <40 42>;
+            key-positions = <6 6 7>;
         };
 
         click_right {
             bindings = <&mkp RCLK>;
-            key-positions = <42 41>;
+            key-positions = <7 8>;
         };
     };
 
