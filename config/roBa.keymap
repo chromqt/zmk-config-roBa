@@ -47,7 +47,7 @@
         };
 
         click_right {
-            bindings = <&mkp RCLK>;
+            bindings = <&mkp MB2>;
             key-positions = <8 9>;
         };
     };
