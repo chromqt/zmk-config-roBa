@@ -46,9 +46,9 @@
             key-positions = <22 23>;
         };
 
-        yokuwakaran {
-            bindings = <&lt 1 G>;
-            key-positions = <39 15>;
+        momentary_numbers {
+            bindings = <&mo 2>;
+            key-positions = <37>;
         };
     };
 
