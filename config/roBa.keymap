@@ -46,9 +46,9 @@
             key-positions = <22 23>;
         };
 
-        numbers {
-            bindings = <&lt 2 S>;
-            key-positions = <11>;
+        yokuwakaran {
+            bindings = <&lt 1 G>;
+            key-positions = <39 15>;
         };
     };
 
