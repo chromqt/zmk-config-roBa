@@ -43,7 +43,7 @@
 
         momentary_numbers {
             bindings = <&mo 2>;
-            key-positions = <37>;
+            key-positions = <28 37>;
         };
     };
 
