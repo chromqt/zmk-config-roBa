@@ -71,6 +71,12 @@
             label = "MOUSE_CLICK_BEHAVIOR";
             #binding-cells = <1>;
         };
+
+        new_behavior: new_behavior {
+            compatible = "zmk,behavior-toggle-layer";
+            label = "NEW_BEHAVIOR";
+            #binding-cells = <1>;
+        };
     };
 
     keymap {
