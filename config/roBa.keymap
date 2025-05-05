@@ -16,8 +16,8 @@
     combos {
         compatible = "zmk,combos";
 
-        tab {
-            bindings = <&kp TAB>;
+        esc {
+            bindings = <&kp ESC>;
             key-positions = <1 0>;
         };
 
