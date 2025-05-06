@@ -42,7 +42,7 @@
         };
 
         momentary_numbers {
-            bindings = <&mo 2>;
+            bindings = <&mo 1>;
             key-positions = <28 37>;
         };
     };
